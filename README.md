@@ -1,4 +1,9 @@
 # Screenshots
+Home
 ![](Home.png)
+
+Create a to-do item
 ![](Create.png)
-![](Form.png)
+
+Edit a to-do item
+![](Edit.png)
